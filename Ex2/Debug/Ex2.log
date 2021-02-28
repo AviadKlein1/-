@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\לל\source\repos\Ex2\worker.h(12,15): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\לל\source\repos\Ex2\worker.h(12,15): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Ex2.vcxproj -> C:\Users\לל\source\repos\ex1\Debug\ex1.2.exe
